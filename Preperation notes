@@ -1,0 +1,16 @@
+WebServices
+Terminologies :
+
+SOAP(Simple object access protocol): it’s a protocol by which different tehnologies or languages can access data or object from another one.
+WSDL(Websrvice Description language) : it is an xml docs of our service which is provided to consumer.
+UDDI(Universal Description Discovery Integration):It’s a registery of webservices where producer register the service.
+SEI(Service endpoint interface): 
+
+ 
+
+	
+
+GIT: Distributed version control :-
+	
+
+
